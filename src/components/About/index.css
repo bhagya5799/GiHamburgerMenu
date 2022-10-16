@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.about-container-desktop{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.about-container{
+width: 97%;
+}
+.about-container-mobile{
+    display: none;
+}
+.about-img{
+height: 50%;
+width: 50%;
+}

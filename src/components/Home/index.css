@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.home-container{
+    width: 98vw;
+    overflow-x: hidden;
+}
+.home-img{
+    height: 80%;
+    width: 80%;
+}
+.home-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        overflow-x: hidden;
+}
+.home-container-mobile{
+    display: none;
+}
